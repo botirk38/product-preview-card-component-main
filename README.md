@@ -20,6 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
+Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
+
 ### The challenge
 
 Users should be able to:
@@ -29,15 +31,22 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop View
 ![Desktop View](project-imgs/desktop-view.png)
+
+#### Mobile View
+
 ![Mobile View](project-imgs/mobile-view.png)
+
+#### Active State
+
 ![Active State](project-imgs/active-state.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  [Solution URL](https://github.com/botirk38/product-preview-card-component-main)
+- Live Site URL: [Live Site URL](botirk38.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -47,7 +56,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- 
+
 
 
 ### What I learned
