@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:  [Solution URL](https://github.com/botirk38/product-preview-card-component-main)
-- Live Site URL: [Live Site URL](botirk38.github.io/product-preview-card-component-main/)
+- Live Site URL: [Live Site URL](https://botirk38.github.io/product-preview-card-component-main/)
 
 ## My process
 
